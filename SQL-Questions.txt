@@ -1,0 +1,10 @@
+What is the difference between SQL and MySQL?
+What are the different subsets of SQL?
+What do you mean by DBMS? ...
+What do you mean by table and field in SQL?
+What are joins in SQL?
+What is the difference between CHAR and VARCHAR2 datatype in SQL?
+What is the Primary key?
+What are Constraints?
+What is the difference between DELETE and TRUNCATE statements?
+What is a Unique key?
